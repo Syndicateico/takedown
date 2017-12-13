@@ -1,2 +1,6 @@
 # takedown
 ideas for investing in cryptocurrency projects
+At present if a contributor wishes to participate in any of the thousands of projects with an ICO or Pre-ICO they must first acquire whatever cryptocurrency is used to peg the value of the token being offered.  For example, my company needs to raise capital to the tune of $10 million USD for a particular project, which we will call Project 1, and decides the best way to do that is to issue tokens that will be offered to the crowd.  In order to do that we must create our own token, which we will call (ABC), for the crowdsourcing event. Next we should probably incentivize the crowd to invest in our project by creating an opportunity to potentially profit, so we need to create value.  We do that in two steps: first we need to peg ABC to something that already has a value, i.e. an established cryptocurrency (Etheruem, Bitcoin, Litecoin, etc).  In this case we will use Etheruem (ETH): 1 ETH = 800 ABC.  Second we need to create a fixed supply.  To do that we take the current price of ETH, i.e. $500 USD/1 ETH and divide it into the projected cost ($10 million USD) and multiply it by our token value.  Giving us our market capitalization for this project.
+($10,000,000 / 500) = 20,000 ETH
+20,000 ETH x 800 ABC = 16,000,000 ABC
+Market Capitalization = 16,000,000 ABC
